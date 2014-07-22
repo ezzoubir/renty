@@ -1,0 +1,13 @@
+RewriteEngine On 
+
+
+RewriteRule ^$ index.php?language=fr&page=1
+RewriteRule ^accueil.html$ index.php?language=fr&page=1&accueil
+RewriteRule ^coupon-(.*).html$ index.php?language=fr&page=2&slug=$1
+RewriteRule ^marchand-(.*).html$ index.php?language=fr&page=3&slug=$1
+RewriteRule ^coupons.html$ index.php?language=fr&page=4
+
+
+#RewriteRule ^photos-(.*).html$ index.php?language=fr&page=5&id_album=$1
+
+RewriteRule ^contact-msg-envoye.html$ index.php?language=fr&page=6&contact&email_sent

@@ -1,0 +1,83 @@
+2010-03-24 22:06:24 (CET)	2 Warning	imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: Unable to open '/var/www/sites/cpagranville.net/public_html/imgs/pages/images/_thumbs/_03032010345.jpg' for writing: No such file or directory	File: fns_tinybrowser.php	Line: 113	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp:): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:49:58 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:50:01 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:50:01 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:50:01 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp:): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:50:03 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp:): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:50:40 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp:): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:50:56 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp:): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	mkdir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): Invalid argument	File: fns_tinybrowser.php	Line: 5	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:51:21 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:51:24 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:51:24 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:51:24 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-19 11:51:28 (Paris, Madrid)	8 Notice	Undefined variable:  success	File: upload_file.php	Line: 34	
+2011-01-19 11:51:28 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: upload_process.php	Line: 21	
+2011-01-19 11:51:28 (Paris, Madrid)	2 Warning	opendir(i:/webservices/wwwhttp://localhost/droitspourtous/images/pages/images/): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-19 11:51:28 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-19 11:51:28 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-21 16:44:20 (Paris, Madrid)	8 Notice	Undefined index:  sessioncheck	File: tinybrowser.php	Line: 17	
+2011-01-21 16:44:34 (Paris, Madrid)	8 Notice	Undefined index:  sessioncheck	File: tinybrowser.php	Line: 17	
+2011-01-21 16:44:40 (Paris, Madrid)	8 Notice	Undefined index:  sessioncheck	File: tinybrowser.php	Line: 17	
+2011-01-26 09:30:17 (Paris, Madrid)	8 Notice	Undefined index:  sessioncheck	File: tinybrowser.php	Line: 17	
+2011-01-26 09:50:39 (Paris, Madrid)	2 Warning	opendir(i:/webservices/www/droitspourtous/images/pages/images/membre_membre_membre_membre_membre_): failed to open dir: Invalid argument	File: fns_tinybrowser.php	Line: 363	
+2011-01-26 09:50:39 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 364	
+2011-01-26 09:50:39 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: fns_tinybrowser.php	Line: 380	
+2011-01-26 10:36:36 (Paris, Madrid)	2 Warning	rename(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comnenuphars.jpg_,i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comnenuphars.jpg): No such file or directory	File: upload_process.php	Line: 41	
+2011-01-26 10:36:36 (Paris, Madrid)	2 Warning	getimagesize(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comnenuphars.jpg): failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2011-01-26 10:36:36 (Paris, Madrid)	2 Warning	unlink(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comnenuphars.jpg): No such file or directory	File: upload_process.php	Line: 49	
+2011-01-26 10:39:59 (Paris, Madrid)	2 Warning	rename(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comhiver.jpg_,i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comhiver.jpg): No such file or directory	File: upload_process.php	Line: 41	
+2011-01-26 10:39:59 (Paris, Madrid)	2 Warning	getimagesize(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comhiver.jpg): failed to open stream: No such file or directory	File: upload_process.php	Line: 48	
+2011-01-26 10:39:59 (Paris, Madrid)	2 Warning	unlink(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.comhiver.jpg): No such file or directory	File: upload_process.php	Line: 49	
+2011-01-26 10:42:09 (Paris, Madrid)	2 Warning	imagejpeg(): Unable to open 'i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.com////_thumbs/_hiver.jpg' for writing	File: fns_tinybrowser.php	Line: 113	
+2011-01-26 10:44:45 (Paris, Madrid)	2 Warning	imagejpeg(): Unable to open 'i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.com///////////////_thumbs/_hiver.jpg' for writing	File: fns_tinybrowser.php	Line: 113	
+2011-01-26 10:50:50 (Paris, Madrid)	2 Warning	opendir(i:/webservices/www/droitspourtous/images/pages/images/nicolas_at_x-mmx.com/test/): failed to open dir: Invalid argument	File: edit.php	Line: 236	
+2011-01-26 10:50:50 (Paris, Madrid)	2 Warning	readdir(): supplied argument is not a valid Directory resource	File: edit.php	Line: 238	
+2011-01-26 10:50:50 (Paris, Madrid)	2 Warning	closedir(): supplied argument is not a valid Directory resource	File: edit.php	Line: 276	
+2011-02-11 14:27:18 (Paris, Madrid)	8 Notice	Use of undefined constant TB_FOLDERDEST - assumed 'TB_FOLDERDEST'	File: edit.php	Line: 442	
+2011-02-11 14:27:50 (Paris, Madrid)	8 Notice	Use of undefined constant TB_FOLDERDEST - assumed 'TB_FOLDERDEST'	File: edit.php	Line: 442	
+2011-02-11 14:28:01 (Paris, Madrid)	8 Notice	Use of undefined constant TB_MSGMOVE - assumed 'TB_MSGMOVE'	File: edit.php	Line: 298	
+2011-02-11 14:28:01 (Paris, Madrid)	8 Notice	Use of undefined constant TB_FOLDERDEST - assumed 'TB_FOLDERDEST'	File: edit.php	Line: 442	
+2011-02-11 14:29:39 (Paris, Madrid)	8 Notice	Use of undefined constant TB_FOLDERDEST - assumed 'TB_FOLDERDEST'	File: edit.php	Line: 442	
+2011-02-11 14:29:45 (Paris, Madrid)	8 Notice	Use of undefined constant TB_MSGMOVE - assumed 'TB_MSGMOVE'	File: edit.php	Line: 298	
+2011-02-11 14:29:45 (Paris, Madrid)	8 Notice	Use of undefined constant TB_FOLDERDEST - assumed 'TB_FOLDERDEST'	File: edit.php	Line: 442	
+2011-02-15 11:21:19 (Paris, Madrid)	2 Warning	imagejpeg(): Unable to open 'i:/webservices/www/images/pages/images/_thumbs/_affiche.jpg' for writing	File: fns_tinybrowser.php	Line: 113	

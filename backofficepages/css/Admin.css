@@ -1,0 +1,234 @@
+html
+{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: scroll;
+  overflow-y: scroll;
+  overflow-x: auto;
+  filter: expression(document.execCommand("BackgroundImageCache", false, true));
+}
+
+body
+{
+  margin:0px;
+  padding:0px;
+  text-align:center;
+}
+
+#global
+{
+    font-family:verdana;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top:10px;
+    width:1152px;
+    min-height:250px;
+    border:1px solid #ccc;
+    background:#f1f1f1;
+    padding:20px;
+    padding-top:10px;
+    text-align:left;
+    font-size:12px;
+}
+
+
+h1
+{
+    font-size:15px;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+
+h2
+{
+    font-size:14px;
+}
+
+th
+{
+  font-family:verdana;
+  font-size:12px;
+  padding:3px;
+  background-color:#ccc;
+}
+
+td
+{
+  font-family:verdana;
+  font-size:12px;
+  text-align:center;
+  padding:3px;
+  background-color:#fff;
+}
+
+
+a
+{
+  color:#000;
+  text-decoration:none;
+  font-weight:bold;
+  }
+
+a:hover
+{
+  color:#000;
+  text-decoration:underline;
+  font-weight:bold;
+}
+
+
+
+#footer
+
+{
+    margin-top:10px;
+    color:#333;font-size:11px;text-align:center;
+    font-family:verdana;
+}
+
+#MENUPRINCIPAL
+{     
+    width: 1100px ;     
+    list-style: none ;     
+    margin: 0 ;     
+    padding: 0 ;   
+}
+#MENUPRINCIPAL li 
+{     
+    float:left;
+    border-right:1px solid #fff;
+    line-height:25px;   
+
+}
+#MENUPRINCIPAL li a 
+{     
+    display: block ;     
+    font-family:verdana;
+    font-size:11px;
+    color: #fff ;             
+    text-align: center ;  
+    text-decoration: none ;   
+    background:#000;
+     padding: 0;
+    padding-left:8px;
+    padding-right:8px;
+ 
+}
+#MENUPRINCIPAL li a:hover, #MENUPRINCIPAL li a:focus, #MENUPRINCIPAL li a:active 
+{     
+  
+    font-family:verdana;
+    font-size:11px;
+    text-decoration: none;    
+    background:#333;
+    padding: 0;
+    padding-left:8px;
+    padding-right:8px;
+    
+}
+
+
+#MENUPRINCIPAL .sousMenu
+{
+ display: none;
+  font-family:verdana;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  z-index:1000;
+  position:absolute;
+}
+   
+#MENUPRINCIPAL .sousMenu li
+
+{
+ font-family:verdana;
+ display: block;
+ float:none;
+ margin: 0;
+ padding: 0;
+ border: 0;
+ z-index:10000000;
+border:1px solid #fff;
+ 
+}		
+
+#MENUPRINCIPAL .sousMenu li a:link,
+#MENUPRINCIPAL .sousMenu li a:visited
+{
+ display: block;
+ background:#333;
+ color:#fff;
+ font-family:verdana;
+ font-size:12px;
+ text-align:center;
+ margin: 0;
+ padding:2px;
+ border: 0;
+ text-decoration: none;
+ z-index:1000;
+ font-weight:normal;
+}
+
+#MENUPRINCIPAL .sousMenu li a:hover
+{
+display: block;
+  z-index:1000;
+ background-image: none;
+ font-family:verdana;
+  font-size:12px;
+ background-color:#000;
+ color:#fff;
+ text-align:center;
+ font-weight:normal;
+
+}		
+#MENUPRINCIPAL .sousMenu .niveau2
+{
+    display:none;
+    margin-left:-41px;
+}
+#MENUPRINCIPAL .sousMenu .niveau2 li a:link,
+#MENUPRINCIPAL .sousMenu  .niveau2 li a:visited
+{
+ display: block;
+ background:#ccc;
+ color:#333;
+ font-family:verdana;
+ font-size:11px;
+ text-align:center;
+ margin: 0;
+ padding:2px;
+ border: 0;
+ text-decoration: none;
+ z-index:1000;
+ font-weight:normal;
+}
+
+#MENUPRINCIPAL .sousMenu .niveau2 li a:hover
+{
+display: block;
+  z-index:1000;
+ background-image: none;
+ font-family:verdana;
+  font-size:11px;
+ background-color:#333;
+ color:#ccc;
+ text-align:center;
+ font-weight:normal;
+
+}		
+
+
+
+
+
+#MENUPRINCIPAL .sousMenu li:hover > .niveau2 {display: block;z-index:1000000; }	
+
+#MENUPRINCIPAL li:hover > .sousMenu {display: block;z-index:1000000; }	
+   
+
+
+
